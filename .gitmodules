@@ -1,0 +1,15 @@
+[submodule "machines-binary"]
+	path = machines-binary
+	url = git@github.com:aloiscochard/machines-binary.git
+[submodule "machines-process"]
+	path = machines-process
+	url = git@github.com:aloiscochard/machines-process.git
+[submodule "machines-io"]
+	path = machines-io
+	url = git@github.com:aloiscochard/machines-io.git
+[submodule "machines-directory"]
+	path = machines-directory
+	url = git@github.com:aloiscochard/machines-directory.git
+[submodule "machines-tutorial"]
+	path = machines-tutorial
+	url = git@github.com:aloiscochard/machines-tutorial.git
